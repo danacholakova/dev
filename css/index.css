@@ -1,0 +1,94 @@
+#container{
+	width:960px;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	
+} 
+
+header { position: left;
+	background-color: gray;
+	 }
+
+nav {display:inline-block;
+	position:10% 90%;
+
+}
+
+ul { list-style: none;
+	 	 
+	 	 overflow: hidden; 
+
+	 	 }
+
+li { float"left;
+ }
+
+ li a { display:block;
+ color:white;
+ background-color: red;
+ text-align: center;
+  }
+
+ li a:hover {
+					background-color:purple;
+				 }
+a { text-decoration: none;
+		color:white;}
+
+section { display:inline-block; }
+
+.bashLetter {
+opacity: 0.7; filter: alpha(opacity=40); 
+
+}
+
+.bashLetter:hover {
+ opacity: 1; filter: alpha(opacity=100); 
+}
+
+.gitLetter {
+		
+
+ opacity: 0.7; filter: alpha(opacity=40); 
+}
+
+.gitLetter:hover {
+ opacity: 1; filter: alpha(opacity=100);
+
+}
+
+
+
+.gitHubLetter {
+
+opacity: 0.7; filter: alpha(opacity=40); 
+}
+
+.gitHubLetter:hover {
+ opacity: 1; filter: alpha(opacity=100); 
+}
+
+.project2 {
+margin-left: 480px;
+margin-top: -197px;
+margin-bottom: -12px;
+opacity: 0.7; filter: alpha(opacity=40); 
+}
+
+
+
+.project2:hover {
+ opacity: 1; filter: alpha(opacity=100); 
+}
+
+.project3 {
+
+opacity: 0.7; filter: alpha(opacity=40); 
+}
+
+
+
+.project3:hover {
+ opacity: 1; filter: alpha(opacity=100); 
+}
